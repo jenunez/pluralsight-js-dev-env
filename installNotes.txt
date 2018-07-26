@@ -1,0 +1,6 @@
+1.- Isntall VScode as Editor for javascript
+2.- Install EditorConfig for VS Code
+3.- Install git
+4.- Install nodejs 8.11.3
+5.- on terminal run npm Instal
+6.- on terminal run npm install -g nps
