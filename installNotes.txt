@@ -3,4 +3,4 @@
 3.- Install git
 4.- Install nodejs 8.11.3
 5.- on terminal run npm Instal
-6.- on terminal run npm install -g nps
+6.- on terminal run npm install -g nsp
