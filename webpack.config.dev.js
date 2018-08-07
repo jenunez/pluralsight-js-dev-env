@@ -1,3 +1,4 @@
+import webpack from 'webpack';
 import path from 'path';
 
 export default {
@@ -12,6 +13,9 @@ export default {
     path: path.resolve(__dirname, 'src'),
     publicPath: '/',
     filename: 'bundle.js'
+  },
+  devServer:{
+    contentBase: path.resolve(__dirname, 'src')
   },
   plugins: [],
   module: {
