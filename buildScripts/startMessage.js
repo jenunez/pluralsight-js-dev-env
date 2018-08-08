@@ -2,4 +2,4 @@
 import chalk from 'chalk'; // standart implement in es6
 
 
-console.log(chalk.green('Starting app in dev mode...'));
+console.log(chalk.green('Starting app in dev mode...')); //eslint-disable-line no-console
