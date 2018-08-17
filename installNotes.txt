@@ -4,3 +4,6 @@
 4.- Install nodejs 8.11.3
 5.- on terminal run npm Instal
 6.- on terminal run npm install -g nsp
+----  CI continious integration
+7.- https://travis-ci.org/ for linux buld
+8.- https://www.appveyor.com/ for windows build
